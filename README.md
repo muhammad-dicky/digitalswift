@@ -47,3 +47,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Create a new file called `index.ts` in the `server` folder
 - Create a new file called `get-payload.ts` in the root of our project
 - Create a `env` file in the root of our project
+
+## Implementing our auth flow
+- Create a folder (auth)\sign-up.tsx & (auth)\sign-in.tsx
+- 
