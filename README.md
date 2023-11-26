@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+#####################
+## Setting up our server
+- Add express to our project `yarn add express`
+- Add dotenv to our project `yarn add dotenv`
+- add types for express `yarn add @types/express`
+- add types for dotenv `yarn add @types/dotenv`
+- add payload to our project `yarn add payload`
+- Create a new folder called `server` in the root of our project
+- Create a new file called `index.ts` in the `server` folder
+- Create a new file called `get-payload.ts` in the root of our project
+- Create a `env` file in the root of our project
